@@ -2,7 +2,7 @@
 ======================================================================================
 *This project aims to bulid a robot which can avoid obstacles and find an optimize path. 
 
-*This project is completed by platform Arduino.
+*This project is completed by the platform Arduino.
 
 *主要功能:实现自动避障，并找到合适的行进路线.
 

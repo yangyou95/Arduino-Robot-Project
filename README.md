@@ -14,4 +14,4 @@
 
 ======================================================================================
 *matlab code Astar alogrithm for the path planning
-![Path Planning](https://github.com/yangyou95/Arduino-Robot-Project/raw/master/robot path plan.jpg)
+![Path Planning](https://github.com/yangyou95/Arduino-Robot-Project/raw/master/robot_path_plan.jpg)

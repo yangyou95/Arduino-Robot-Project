@@ -11,7 +11,7 @@
 ![Flowchart](https://github.com/yangyou95/Arduino-Robot-Project/raw/master/algorigramme.png)
 
 #Research Individual for the path planning
-matlab code Astar alogrithm for the path planning
+
 ======================================================================================
-Exemple 
+*matlab code Astar alogrithm for the path planning
 ![Path Planning](https://github.com/yangyou95/Arduino-Robot-Project/raw/master/robot path plan.jpg)
